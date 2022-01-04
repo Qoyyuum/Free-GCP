@@ -36,3 +36,7 @@ When done for the day or no longer need a VM running, `terraform destroy`, then 
 [Getting Started](https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/getting_started) with Google Provider
 
 More about Terraform [Google Compute Instance](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_instance)
+
+## Fair Warning
+
+You may be charged for exceeding beyond Google's Free Tier. Please read and understand further at their official docs as time passes by. https://cloud.google.com/free/
